@@ -24,6 +24,6 @@ ripe tomato : 1
 1 <= tomato
 
 #### Output
-If all tomatoes are ripened, print the number of days which it takes to ripen all tomatoes.
-If all tomatoes are already ripened when you gave, print 0.
-If there are raw tomatoes in a warehouse, print -1.
+- If all tomatoes are ripened, print the number of days which it takes to ripen all tomatoes.
+- If all tomatoes are already ripened when you gave, print 0.
+- If there are raw tomatoes in a warehouse, print -1.
