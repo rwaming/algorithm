@@ -4,7 +4,27 @@ This is a repository which store data about algorithm and Backjoon questions I s
 
 ## List
 
-### 7576
+### 7569
+
+> 2024.03.12.Tue
+
+A solution which estimates when tomatoes ripen.
+
+#### Description
+
+It is a progress version of **[7576](#7576)**.
+
+#### Condition
+
+The number of columns : M<br>
+The number of rows : N<br>
+The number of z-axis : H
+
+#### Output
+
+Same as **[7576](#7576)**.
+
+### 7576 <a name="7576"></a>
 
 A solution which estimates when tomatoes ripen.
 
