@@ -4,8 +4,7 @@ This is a repository which store data about algorithm and Backjoon questions I s
 
 ## List
 
-> 2024.03.12.Tue
-
+>*2024. 03. 12. Tue*
 ### 7569
 
 A solution which estimates when tomatoes ripen.
@@ -28,10 +27,9 @@ Same as **[7576](#7576)**.
 
 The process of resolving is in **7569.md**
 
----
+<br>
 
-> 2023.12.27.Wed
-
+>*2023. 12. 27. Wed*
 ### 7576 <a name="7576"></a>
 
 A solution which estimates when tomatoes ripen.
