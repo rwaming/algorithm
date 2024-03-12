@@ -1,17 +1,21 @@
 # algorithm
+
 This is a repository which store data about algorithm and Backjoon questions I studied.
 
 ## List
 
 ### 7576
+
 A solution which estimates when tomatoes ripen.
 
 #### Description
-- There are raw or ripe tomatoes in a warehouse having columns and rows of a tomato farm.<br>
-- A ripe tomato can ripen one to four tomatoes lying on top, bottom, left, right sides of those in one day.<br>
+
+- There are raw or ripe tomatoes in a warehouse having columns and rows of a tomato farm.
+- A ripe tomato can ripen one to four tomatoes lying on top, bottom, left, right sides of those in one day.
 - But, if there are nothing on four sides of a ripe tomato, nothing happens.
 
 #### Condition
+
 The number of columns : M<br>
 The number of rows : N
 
@@ -24,9 +28,10 @@ Ripe tomato : 1
 1 <= tomato
 
 #### Output
-- **All tomatoes are ripened**<br>
-: The number of days which it takes to ripen all tomatoes
-- **All tomatoes are already ripened when you gave**<br>
-: 0
-- **There are raw tomatoes in a warehouse**<br>
-: -1
+
+- **All tomatoes are ripened**
+  : The number of days which it takes to ripen all tomatoes
+- **All tomatoes are already ripened when you gave**
+  : 0
+- **There are raw tomatoes in a warehouse**
+  : -1
