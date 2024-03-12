@@ -24,7 +24,7 @@ The number of z-axis : H
 
 Same as **[7576](#7576)**.
 
-#### Resolve
+#### [Resolve](https://github.com/rwaming/algorithm#:~:text=1%20hour%20ago-,7569.md,-7569%20%2D%20Place%20description)
 
 ### 7576 <a name="7576"></a>
 
